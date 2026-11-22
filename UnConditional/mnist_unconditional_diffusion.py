@@ -4,7 +4,7 @@ import torch.optim as optim
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
-
+ 
 # Data loading and preprocessing
 transform = transforms.Compose([
     transforms.ToTensor(),
