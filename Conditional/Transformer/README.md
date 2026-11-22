@@ -1,5 +1,5 @@
 # Efficient Transformer-Based Diffusion Model for MNIST
-
+ 
 This project implements a lightweight Transformer-based diffusion model for generating MNIST handwritten digit images from noise. The model incorporates several optimizations to improve computational efficiency while maintaining generation quality.
 
 ## Features
