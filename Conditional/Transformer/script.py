@@ -6,7 +6,7 @@ from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 import random
 import math
-
+ 
 # Adjust input resolution for better balance between speed and detail
 img_size = 16  # Increased from 14 to 16
 
